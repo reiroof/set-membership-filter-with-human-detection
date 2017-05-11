@@ -14,3 +14,7 @@ data:MATLABとBlenderを連携させるためのtxtファイルを置くところ
 
 Blenderファイル
 ・setmembershipfilterfinalcamera_reverse_including_velocity_revision.blend:Blenderのファイル。カメラの位置や歩行者の歩行軌跡などを直感的に決めることができる．こちらで直感的に決めた後にmatlab内の数値を書き換えなくてはいけない。
+
+
+実行後して出力された画像データから作成した動画ファイルは以下のDriveにある
+https://drive.google.com/open?id=0B_zKOj4hxvlEZmpSWU9uQ1o3R28
